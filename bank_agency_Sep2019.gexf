@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-12-12">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="野村信託銀行株式会社" label="野村信託銀行株式会社">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="95.79074" y="-36.63644"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="野村證券株式会社" label="野村證券株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="106.17306" y="-11.504184"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社じぶん銀行" label="株式会社じぶん銀行">
+        <viz:size value="16.25"></viz:size>
+        <viz:position x="16.080694" y="-334.1459"></viz:position>
+        <viz:color r="92" g="186" b="153"></viz:color>
+      </node>
+      <node id="ＫＤＤＩ株式会社" label="ＫＤＤＩ株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="77.20128" y="-339.95074"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社大和ネクスト銀行" label="株式会社大和ネクスト銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="-155.35767" y="-160.0492"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="大和証券株式会社" label="大和証券株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-137.21233" y="-138.49493"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社イオン銀行" label="株式会社イオン銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="471.86462" y="-46.355846"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="イオンクレジットサービス株式会社" label="イオンクレジットサービス株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="470.72656" y="-17.835756"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社三菱ＵＦＪ銀行" label="株式会社三菱ＵＦＪ銀行">
+        <viz:size value="16.25"></viz:size>
+        <viz:position x="-99.48505" y="-306.11652"></viz:position>
+        <viz:color r="92" g="186" b="153"></viz:color>
+      </node>
+      <node id="スルガ銀行株式会社" label="スルガ銀行株式会社">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="421.9583" y="86.99238"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社ゆうちょ銀行" label="株式会社ゆうちょ銀行">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="401.27493" y="67.15662"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社埼玉りそな銀行" label="株式会社埼玉りそな銀行">
+        <viz:size value="10.416667"></viz:size>
+        <viz:position x="265.40417" y="277.55862"></viz:position>
+        <viz:color r="163" g="218" b="203"></viz:color>
+      </node>
+      <node id="株式会社りそな銀行" label="株式会社りそな銀行">
+        <viz:size value="10.416667"></viz:size>
+        <viz:position x="311.5301" y="257.4308"></viz:position>
+        <viz:color r="163" g="218" b="203"></viz:color>
+      </node>
+      <node id="株式会社近畿大阪銀行" label="株式会社近畿大阪銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="349.7359" y="227.10046"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社みずほ銀行" label="株式会社みずほ銀行">
+        <viz:size value="10.416667"></viz:size>
+        <viz:position x="-178.78511" y="408.1359"></viz:position>
+        <viz:color r="212" g="238" b="235"></viz:color>
+      </node>
+      <node id="みずほ信託銀行株式会社" label="みずほ信託銀行株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-201.32094" y="380.89398"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="三井住友信託銀行株式会社" label="三井住友信託銀行株式会社">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="9.139618E-4" y="0.0013158724"></viz:position>
+        <viz:color r="212" g="238" b="235"></viz:color>
+      </node>
+      <node id="住信ＳＢＩネット銀行株式会社" label="住信ＳＢＩネット銀行株式会社">
+        <viz:size value="23.541668"></viz:size>
+        <viz:position x="-22.512117" y="-52.908836"></viz:position>
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </node>
+      <node id="株式会社ＳＭＢＣ信託銀行" label="株式会社ＳＭＢＣ信託銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="-371.21487" y="150.94658"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社三井住友銀行" label="株式会社三井住友銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="-336.6846" y="143.05025"></viz:position>
+        <viz:color r="212" g="238" b="235"></viz:color>
+      </node>
+      <node id="三菱ＵＦＪ信託銀行株式会社" label="三菱ＵＦＪ信託銀行株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-140.00653" y="-356.99573"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="ＧＭＯあおぞらネット銀行株式会社" label="ＧＭＯあおぞらネット銀行株式会社">
+        <viz:size value="13.333334"></viz:size>
+        <viz:position x="162.31024" y="79.99836"></viz:position>
+        <viz:color r="163" g="218" b="203"></viz:color>
+      </node>
+      <node id="株式会社あおぞら銀行" label="株式会社あおぞら銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="106.06568" y="69.3152"></viz:position>
+        <viz:color r="212" g="238" b="235"></viz:color>
+      </node>
+      <node id="株式会社荘内銀行" label="株式会社荘内銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="-466.02545" y="74.55825"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="リリーほくと商事株式会社" label="リリーほくと商事株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-453.33234" y="48.90578"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社北都銀行" label="株式会社北都銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="305.4044" y="86.75961"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社秋田住宅流通センター" label="株式会社秋田住宅流通センター">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="286.65424" y="108.06275"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社きらやか銀行" label="株式会社きらやか銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="-321.8702" y="291.75204"></viz:position>
+        <viz:color r="212" g="238" b="235"></viz:color>
+      </node>
+      <node id="株式会社仙台銀行" label="株式会社仙台銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="-351.00024" y="302.64413"></viz:position>
+        <viz:color r="212" g="238" b="235"></viz:color>
+      </node>
+      <node id="カブドットコム証券株式会社" label="カブドットコム証券株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-50.351006" y="-352.081"></viz:position>
+        <viz:color r="212" g="238" b="235"></viz:color>
+      </node>
+      <node id="株式会社ＳＢＩ証券" label="株式会社ＳＢＩ証券">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-83.22817" y="-15.631221"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="ソニー銀行株式会社" label="ソニー銀行株式会社">
+        <viz:size value="25.0"></viz:size>
+        <viz:position x="214.44313" y="-142.54517"></viz:position>
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </node>
+      <node id="ソニー生命保険株式会社" label="ソニー生命保険株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="219.16907" y="-55.294968"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="三菱ＵＦＪローンビジネス株式会社" label="三菱ＵＦＪローンビジネス株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-135.84225" y="-249.87859"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="スターツ証券株式会社" label="スターツ証券株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="99.70438" y="-239.10762"></viz:position>
+        <viz:color r="212" g="238" b="235"></viz:color>
+      </node>
+      <node id="ＳＭＢＣ日興証券株式会社" label="ＳＭＢＣ日興証券株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-302.80438" y="138.61449"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="楽天銀行株式会社" label="楽天銀行株式会社">
+        <viz:size value="17.708332"></viz:size>
+        <viz:position x="-228.22824" y="-34.648186"></viz:position>
+        <viz:color r="92" g="186" b="153"></viz:color>
+      </node>
+      <node id="ウエスタンユニオン・ビジネスソ リューションズ・ジャパン株式会社" label="ウエスタンユニオン・ビジネスソ リューションズ・ジャパン株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-169.3692" y="-27.73796"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社セブン銀行" label="株式会社セブン銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="-133.59946" y="232.47357"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="りらいあコミュニケーションズ株式会社" label="りらいあコミュニケーションズ株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-122.69158" y="258.50986"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="三菱ＵＦＪフィナンシャルパートナーズ株式会社" label="三菱ＵＦＪフィナンシャルパートナーズ株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-168.58542" y="-304.4376"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="ＫＤＤＩフィナンシャルサービス株式会社" label="ＫＤＤＩフィナンシャルサービス株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="30.352741" y="-278.20892"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="ＳＢＩマネープラザ株式会社" label="ＳＢＩマネープラザ株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="4.291943" y="-118.91402"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社ジャパンネット銀行" label="株式会社ジャパンネット銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="64.237946" y="10.509421"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="ヤフー株式会社" label="ヤフー株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="40.37207" y="22.183256"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="みずほ証券株式会社" label="みずほ証券株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-152.56227" y="432.07227"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="ブロードマインド株式会社" label="ブロードマインド株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="139.24364" y="-100.5709"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="東急保険コンサルティング株式会社" label="東急保険コンサルティング株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="129.68755" y="-149.61118"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="楽天証券株式会社" label="楽天証券株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-283.4822" y="-64.433624"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="ＫＤＤIプリシード株式会社" label="ＫＤＤIプリシード株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="55.91465" y="-392.95612"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="楽天生命保険株式会社" label="楽天生命保険株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-201.71198" y="22.103178"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="グッドモーゲージ株式会社" label="グッドモーゲージ株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-78.34886" y="-94.82845"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="髙島屋クレジット株式会社" label="髙島屋クレジット株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="305.88742" y="-152.38434"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="アルヒ株式会社" label="アルヒ株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="48.94092" y="-91.61162"></viz:position>
+        <viz:color r="187" g="228" b="219"></viz:color>
+      </node>
+      <node id="ＭＸモバイリング株式会社" label="ＭＸモバイリング株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-24.94304" y="12.95063"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社アイ・エフ・クリエイト" label="株式会社アイ・エフ・クリエイト">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="27.547207" y="-12.496518"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="ＧＭＯクリック証券株式会社" label="ＧＭＯクリック証券株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="156.46661" y="124.40608"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="ＧＭＯインターネット株式会社" label="ＧＭＯインターネット株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="160.77072" y="34.783928"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="ＪＡＬペイメント・ポート株式会社" label="ＪＡＬペイメント・ポート株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-92.508705" y="-52.604206"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="吉田通信株式会社" label="吉田通信株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="41.55052" y="-40.4367"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社バリュー・エージェント" label="株式会社バリュー・エージェント">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="265.73294" y="-67.23316"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="日本モーゲージサービス株式会社" label="日本モーゲージサービス株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="233.83632" y="-225.54086"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社カスタマーリンクス" label="株式会社カスタマーリンクス">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="172.9547" y="-67.20817"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="旭化成ホームズフィナンシャル株式会社" label="旭化成ホームズフィナンシャル株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-53.361103" y="2.965258"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="H.I.S.Impact Finance株式会社" label="H.I.S.Impact Finance株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="207.15378" y="80.29343"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="楽天損害保険株式会社" label="楽天損害保険株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-292.0919" y="-15.646353"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社リクルートゼクシィなび" label="株式会社リクルートゼクシィなび">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-40.746418" y="-122.613174"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="ＡＮＡ Ｘ 株式会社" label="ＡＮＡ Ｘ 株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="283.92932" y="-199.63417"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="楽天カード株式会社" label="楽天カード株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-257.18658" y="22.418993"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社関西みらい銀行" label="株式会社関西みらい銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="285.9146" y="315.23846"></viz:position>
+        <viz:color r="187" g="228" b="219"></viz:color>
+      </node>
+      <node id="株式会社筑波銀行" label="株式会社筑波銀行">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="75.02574" y="59.640846"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社千葉銀行" label="株式会社千葉銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="287.56372" y="-378.1277"></viz:position>
+        <viz:color r="212" g="238" b="235"></viz:color>
+      </node>
+      <node id="株式会社武蔵野銀行" label="株式会社武蔵野銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="262.56378" y="-396.82263"></viz:position>
+        <viz:color r="212" g="238" b="235"></viz:color>
+      </node>
+      <node id="株式会社大垣共立銀行" label="株式会社大垣共立銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="-246.28387" y="-118.52012"></viz:position>
+        <viz:color r="212" g="238" b="235"></viz:color>
+      </node>
+      <node id="株式会社ＯＫＢフロント" label="株式会社ＯＫＢフロント">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-259.19177" y="-152.0436"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="東海東京証券株式会社" label="東海東京証券株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="170.48553" y="-208.59344"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="トヨタファイナンス株式会社" label="トヨタファイナンス株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-80.285416" y="-242.20354"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社滋賀銀行" label="株式会社滋賀銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="-372.13318" y="-258.00626"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="しがぎん代理店株式会社" label="しがぎん代理店株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-348.23532" y="-242.39204"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社南都銀行" label="株式会社南都銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="-213.4714" y="200.7579"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="なんぎん代理店株式会社" label="なんぎん代理店株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-216.32573" y="229.11583"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社髙島屋" label="株式会社髙島屋">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="297.62997" y="-103.5642"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社山口銀行" label="株式会社山口銀行">
+        <viz:size value="10.416667"></viz:size>
+        <viz:position x="39.6847" y="325.57663"></viz:position>
+        <viz:color r="163" g="218" b="203"></viz:color>
+      </node>
+      <node id="株式会社ワイエムライフプランニング" label="株式会社ワイエムライフプランニング">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-7.441028" y="341.18414"></viz:position>
+        <viz:color r="187" g="228" b="219"></viz:color>
+      </node>
+      <node id="株式会社もみじ銀行" label="株式会社もみじ銀行">
+        <viz:size value="11.875"></viz:size>
+        <viz:position x="53.133106" y="376.07022"></viz:position>
+        <viz:color r="187" g="228" b="219"></viz:color>
+      </node>
+      <node id="株式会社北九州銀行" label="株式会社北九州銀行">
+        <viz:size value="11.875"></viz:size>
+        <viz:position x="16.085453" y="277.04004"></viz:position>
+        <viz:color r="187" g="228" b="219"></viz:color>
+      </node>
+      <node id="株式会社保険ひろば" label="株式会社保険ひろば">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="79.68839" y="301.26297"></viz:position>
+        <viz:color r="187" g="228" b="219"></viz:color>
+      </node>
+      <node id="株式会社広島銀行" label="株式会社広島銀行">
+        <viz:size value="10.416667"></viz:size>
+        <viz:position x="23.64155" y="95.00068"></viz:position>
+        <viz:color r="212" g="238" b="235"></viz:color>
+      </node>
+      <node id="ひろぎん証券株式会社" label="ひろぎん証券株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="39.11201" y="124.73176"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社百十四銀行" label="株式会社百十四銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="117.41645" y="191.04626"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="百十四財田代理店株式会社" label="百十四財田代理店株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="91.98707" y="177.87158"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社四国銀行" label="株式会社四国銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="-281.1047" y="-407.54953"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="四銀代理店株式会社" label="四銀代理店株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-296.04474" y="-383.02878"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社福岡銀行" label="株式会社福岡銀行">
+        <viz:size value="11.875"></viz:size>
+        <viz:position x="-81.657074" y="68.86455"></viz:position>
+        <viz:color r="138" g="208" b="187"></viz:color>
+      </node>
+      <node id="iBankマーケティング株式会社" label="iBankマーケティング株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-20.614964" y="65.13889"></viz:position>
+        <viz:color r="138" g="208" b="187"></viz:color>
+      </node>
+      <node id="株式会社親和銀行" label="株式会社親和銀行">
+        <viz:size value="10.416667"></viz:size>
+        <viz:position x="-57.76817" y="120.616974"></viz:position>
+        <viz:color r="138" g="208" b="187"></viz:color>
+      </node>
+      <node id="株式会社熊本銀行" label="株式会社熊本銀行">
+        <viz:size value="11.875"></viz:size>
+        <viz:position x="-118.840416" y="102.479294"></viz:position>
+        <viz:color r="163" g="218" b="203"></viz:color>
+      </node>
+      <node id="株式会社沖縄銀行" label="株式会社沖縄銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="8.443733" y="40.158733"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社十八銀行" label="株式会社十八銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="-42.998173" y="166.83784"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="株式会社鹿児島銀行" label="株式会社鹿児島銀行">
+        <viz:size value="8.958333"></viz:size>
+        <viz:position x="-447.09775" y="-135.83098"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="かぎん代理店株式会社" label="かぎん代理店株式会社">
+        <viz:size value="7.5"></viz:size>
+        <viz:position x="-446.72855" y="-107.23068"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="野村信託銀行株式会社" target="野村證券株式会社" label="野村信託銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="1" source="株式会社じぶん銀行" target="ＫＤＤＩ株式会社" label="株式会社じぶん銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="2" source="株式会社大和ネクスト銀行" target="大和証券株式会社" label="株式会社大和ネクスト銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="3" source="株式会社イオン銀行" target="イオンクレジットサービス株式会社" label="株式会社イオン銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="4" source="株式会社じぶん銀行" target="株式会社三菱ＵＦＪ銀行" label="株式会社じぶん銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="5" source="スルガ銀行株式会社" target="株式会社ゆうちょ銀行" label="スルガ銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="6" source="株式会社埼玉りそな銀行" target="株式会社りそな銀行" label="株式会社埼玉りそな銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="7" source="株式会社近畿大阪銀行" target="株式会社りそな銀行" label="株式会社近畿大阪銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="8" source="株式会社みずほ銀行" target="みずほ信託銀行株式会社" label="株式会社みずほ銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="9" source="三井住友信託銀行株式会社" target="住信ＳＢＩネット銀行株式会社" label="三井住友信託銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="10" source="株式会社三菱ＵＦＪ銀行" target="株式会社じぶん銀行" label="株式会社三菱ＵＦＪ銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="11" source="株式会社ＳＭＢＣ信託銀行" target="株式会社三井住友銀行" label="株式会社ＳＭＢＣ信託銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="12" source="株式会社三菱ＵＦＪ銀行" target="三菱ＵＦＪ信託銀行株式会社" label="株式会社三菱ＵＦＪ銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="13" source="住信ＳＢＩネット銀行株式会社" target="三井住友信託銀行株式会社" label="住信ＳＢＩネット銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="14" source="ＧＭＯあおぞらネット銀行株式会社" target="株式会社あおぞら銀行" label="ＧＭＯあおぞらネット銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="15" source="株式会社荘内銀行" target="リリーほくと商事株式会社" label="株式会社荘内銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="16" source="株式会社北都銀行" target="株式会社秋田住宅流通センター" label="株式会社北都銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="17" source="株式会社きらやか銀行" target="株式会社仙台銀行" label="株式会社きらやか銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="18" source="株式会社仙台銀行" target="株式会社きらやか銀行" label="株式会社仙台銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="19" source="株式会社三菱ＵＦＪ銀行" target="カブドットコム証券株式会社" label="株式会社三菱ＵＦＪ銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="20" source="株式会社じぶん銀行" target="カブドットコム証券株式会社" label="株式会社じぶん銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="21" source="住信ＳＢＩネット銀行株式会社" target="株式会社ＳＢＩ証券" label="住信ＳＢＩネット銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="22" source="ソニー銀行株式会社" target="ソニー生命保険株式会社" label="ソニー銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="23" source="株式会社三菱ＵＦＪ銀行" target="三菱ＵＦＪローンビジネス株式会社" label="株式会社三菱ＵＦＪ銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="24" source="ソニー銀行株式会社" target="スターツ証券株式会社" label="ソニー銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="25" source="株式会社じぶん銀行" target="スターツ証券株式会社" label="株式会社じぶん銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="26" source="株式会社三井住友銀行" target="ＳＭＢＣ日興証券株式会社" label="株式会社三井住友銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="27" source="楽天銀行株式会社" target="ウエスタンユニオン・ビジネスソ リューションズ・ジャパン株式会社" label="楽天銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="28" source="株式会社セブン銀行" target="りらいあコミュニケーションズ株式会社" label="株式会社セブン銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="29" source="株式会社三菱ＵＦＪ銀行" target="三菱ＵＦＪフィナンシャルパートナーズ株式会社" label="株式会社三菱ＵＦＪ銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="30" source="株式会社じぶん銀行" target="ＫＤＤＩフィナンシャルサービス株式会社" label="株式会社じぶん銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="31" source="住信ＳＢＩネット銀行株式会社" target="ＳＢＩマネープラザ株式会社" label="住信ＳＢＩネット銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="32" source="株式会社ジャパンネット銀行" target="ヤフー株式会社" label="株式会社ジャパンネット銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="33" source="株式会社みずほ銀行" target="みずほ証券株式会社" label="株式会社みずほ銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="34" source="ソニー銀行株式会社" target="ブロードマインド株式会社" label="ソニー銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="35" source="ソニー銀行株式会社" target="東急保険コンサルティング株式会社" label="ソニー銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="36" source="楽天銀行株式会社" target="楽天証券株式会社" label="楽天銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="37" source="株式会社じぶん銀行" target="ＫＤＤIプリシード株式会社" label="株式会社じぶん銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="38" source="楽天銀行株式会社" target="楽天生命保険株式会社" label="楽天銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="39" source="住信ＳＢＩネット銀行株式会社" target="グッドモーゲージ株式会社" label="住信ＳＢＩネット銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="40" source="ソニー銀行株式会社" target="髙島屋クレジット株式会社" label="ソニー銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="41" source="住信ＳＢＩネット銀行株式会社" target="アルヒ株式会社" label="住信ＳＢＩネット銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="42" source="ソニー銀行株式会社" target="アルヒ株式会社" label="ソニー銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="43" source="楽天銀行株式会社" target="アルヒ株式会社" label="楽天銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="44" source="住信ＳＢＩネット銀行株式会社" target="ＭＸモバイリング株式会社" label="住信ＳＢＩネット銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="45" source="住信ＳＢＩネット銀行株式会社" target="株式会社アイ・エフ・クリエイト" label="住信ＳＢＩネット銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="46" source="ＧＭＯあおぞらネット銀行株式会社" target="ＧＭＯクリック証券株式会社" label="ＧＭＯあおぞらネット銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="47" source="ＧＭＯあおぞらネット銀行株式会社" target="ＧＭＯインターネット株式会社" label="ＧＭＯあおぞらネット銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="48" source="住信ＳＢＩネット銀行株式会社" target="ＪＡＬペイメント・ポート株式会社" label="住信ＳＢＩネット銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="49" source="住信ＳＢＩネット銀行株式会社" target="吉田通信株式会社" label="住信ＳＢＩネット銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="50" source="ソニー銀行株式会社" target="株式会社バリュー・エージェント" label="ソニー銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="51" source="ソニー銀行株式会社" target="日本モーゲージサービス株式会社" label="ソニー銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="52" source="ソニー銀行株式会社" target="株式会社カスタマーリンクス" label="ソニー銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="53" source="住信ＳＢＩネット銀行株式会社" target="旭化成ホームズフィナンシャル株式会社" label="住信ＳＢＩネット銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="54" source="ＧＭＯあおぞらネット銀行株式会社" target="H.I.S.Impact Finance株式会社" label="ＧＭＯあおぞらネット銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="55" source="楽天銀行株式会社" target="楽天損害保険株式会社" label="楽天銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="56" source="住信ＳＢＩネット銀行株式会社" target="株式会社リクルートゼクシィなび" label="住信ＳＢＩネット銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="57" source="ソニー銀行株式会社" target="ＡＮＡ Ｘ 株式会社" label="ソニー銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="58" source="楽天銀行株式会社" target="楽天カード株式会社" label="楽天銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="59" source="株式会社りそな銀行" target="株式会社埼玉りそな銀行" label="株式会社りそな銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="60" source="株式会社関西みらい銀行" target="株式会社埼玉りそな銀行" label="株式会社関西みらい銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="61" source="株式会社あおぞら銀行" target="株式会社筑波銀行" label="株式会社あおぞら銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="62" source="株式会社千葉銀行" target="株式会社武蔵野銀行" label="株式会社千葉銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="63" source="株式会社武蔵野銀行" target="株式会社千葉銀行" label="株式会社武蔵野銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="64" source="株式会社大垣共立銀行" target="株式会社ＯＫＢフロント" label="株式会社大垣共立銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="65" source="ソニー銀行株式会社" target="東海東京証券株式会社" label="ソニー銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="66" source="株式会社三菱ＵＦＪ銀行" target="トヨタファイナンス株式会社" label="株式会社三菱ＵＦＪ銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="67" source="楽天銀行株式会社" target="株式会社大垣共立銀行" label="楽天銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="68" source="株式会社滋賀銀行" target="しがぎん代理店株式会社" label="株式会社滋賀銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="69" source="株式会社南都銀行" target="なんぎん代理店株式会社" label="株式会社南都銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="70" source="ソニー銀行株式会社" target="株式会社髙島屋" label="ソニー銀行株式会社">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="71" source="株式会社りそな銀行" target="株式会社関西みらい銀行" label="株式会社りそな銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="72" source="株式会社埼玉りそな銀行" target="株式会社関西みらい銀行" label="株式会社埼玉りそな銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="73" source="株式会社山口銀行" target="株式会社ワイエムライフプランニング" label="株式会社山口銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="74" source="株式会社もみじ銀行" target="株式会社ワイエムライフプランニング" label="株式会社もみじ銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="75" source="株式会社北九州銀行" target="株式会社ワイエムライフプランニング" label="株式会社北九州銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="76" source="株式会社山口銀行" target="株式会社保険ひろば" label="株式会社山口銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="77" source="株式会社もみじ銀行" target="株式会社保険ひろば" label="株式会社もみじ銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="78" source="株式会社北九州銀行" target="株式会社保険ひろば" label="株式会社北九州銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="79" source="株式会社広島銀行" target="ひろぎん証券株式会社" label="株式会社広島銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="80" source="株式会社もみじ銀行" target="株式会社山口銀行" label="株式会社もみじ銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="81" source="株式会社北九州銀行" target="株式会社山口銀行" label="株式会社北九州銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="82" source="株式会社百十四銀行" target="百十四財田代理店株式会社" label="株式会社百十四銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="83" source="株式会社四国銀行" target="四銀代理店株式会社" label="株式会社四国銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="84" source="株式会社福岡銀行" target="iBankマーケティング株式会社" label="株式会社福岡銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="85" source="株式会社親和銀行" target="iBankマーケティング株式会社" label="株式会社親和銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="86" source="株式会社熊本銀行" target="iBankマーケティング株式会社" label="株式会社熊本銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="87" source="株式会社沖縄銀行" target="iBankマーケティング株式会社" label="株式会社沖縄銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="88" source="株式会社広島銀行" target="iBankマーケティング株式会社" label="株式会社広島銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="89" source="株式会社福岡銀行" target="株式会社親和銀行" label="株式会社福岡銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="90" source="株式会社熊本銀行" target="株式会社親和銀行" label="株式会社熊本銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="91" source="株式会社十八銀行" target="株式会社親和銀行" label="株式会社十八銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="92" source="株式会社親和銀行" target="株式会社福岡銀行" label="株式会社親和銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="93" source="株式会社熊本銀行" target="株式会社福岡銀行" label="株式会社熊本銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="94" source="株式会社鹿児島銀行" target="かぎん代理店株式会社" label="株式会社鹿児島銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+      <edge id="95" source="株式会社福岡銀行" target="株式会社熊本銀行" label="株式会社福岡銀行">
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
